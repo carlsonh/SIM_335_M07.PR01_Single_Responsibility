@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c9ca4fc749b499f4b877866154ce38dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathParticleExplode: {fileID: 5139466195945210429, guid: bc05862e4de255922b8a7b642208afb0, type: 3}
+  - deathParticleFire: {fileID: 5139466195945210429, guid: dee25ef51a9b5ce4d97fd655c61cd272, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
